@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 html {
     scroll-behavior: smooth;
 }
@@ -28,7 +29,7 @@ section {
 }
 
 .nav {
-    position: fixed;
+    position: absolute;
     margin-top: 5%;
     width: 100%;
     z-index: 15;
@@ -151,7 +152,7 @@ section {
     margin-top: 290px;
     margin-left: 150px;
     text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Raleway;
     font-size: 80px;
     letter-spacing: 0px;
     color: #FFFFFF;
@@ -193,7 +194,7 @@ section {
 }
 
 .thinking-head {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Raleway;
     color: #FFFFFF;
     font-size: 80px;
     margin-top: -1580px;
@@ -223,7 +224,7 @@ section {
 }
 
 .speakers-head {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Raleway;
     color: #FFFFFF;
     font-size: 80px;
     margin-top: 0px;
@@ -255,17 +256,117 @@ section {
 
 .partners-div {
     width: 100%;
-    height: 60%;
-    margin-left: 0px;
-    margin-top: 0px;
+    height: 90%;
+    margin-left: 0%;
+    margin-top: 0%;
 }
 
 .partners-head {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Raleway;
     color: #FFFFFF;
     font-size: 80px;
-    margin-top: 0px;
-    margin-left: 150px;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-left: 7%;
     width: max-content;
     height: max-content;
+}
+.members-div{
+    width: 100%;
+    height: 90%;
+    margin-left: 0%;
+    margin-top: 0%;
+
+}
+.members-head{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 80px;
+    margin-top: 0%;
+    margin-left: 7%;
+    width: max-content;
+    height: max-content;
+
+}.writings-div{
+    width: 100%;
+    height: 90%;
+    margin-left: 0px;
+    margin-top: 0px;
+    align-items: center;
+
+}
+.writings-head{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 80px;
+    margin-top: 0%;
+    letter-spacing: 0px;
+    margin-left: 7%;
+    width: max-content;
+    height: max-content;
+
+}
+.writings-head1{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-weight:bolder;
+    text-decoration: underline;
+    font-size: 60px;
+    margin-top: 5%;
+    margin-left: 28%;
+    width: max-content;
+    height: max-content;
+}
+.writings-head2{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 15%;
+    margin-left: 18%;
+    width: max-content;
+    height: max-content;
+}
+.writings-p{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-top: 5%;
+    margin-left:30%;
+    text-align: center;
+    align-self: center;
+    width: 40%;
+    height: 70%;
+}
+.writings-img{
+    margin-top: 0%;
+    margin-left:0%;
+    width: 100%;
+    height: 150%;
+}
+.organiser-div{
+    width: 90%;
+    height: 90%;
+    margin-left: 0%;
+    margin-top: 80%;
+}
+.organiser-head{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 80px;
+    margin-top: 0%;
+    letter-spacing: 0px;
+    margin-left: 7%;
+    width: max-content;
+    height: max-content;
+}
+.organiser-p{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-top: 5%;
+    margin-left:20%;
+    text-align: center;
+    width: 70%;
+    height: 40%;
 }
