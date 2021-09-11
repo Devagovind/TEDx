@@ -506,3 +506,25 @@ section {
     height: 100%;
     text-align: left;
 }
+.login-head1{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-top: 2%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 75%;
+    width: max-content;
+    height: max-content;
+}
+.login-head{
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 50px;
+    margin-top: 2%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 5%;
+    width: max-content;
+    height: max-content;
+}
