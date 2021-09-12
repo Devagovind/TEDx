@@ -528,3 +528,67 @@ section {
     width: max-content;
     height: max-content;
 }
+.reg{
+    float: left;
+    width: 100%;
+    height: 80%;
+}
+.login{
+    height: 100%;
+    width: 50%;
+}
+.regform-txt{
+    padding: 3%;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 45%;
+    height: 0px;
+    margin-top: -8.5%;
+    margin-left: 40%;
+}
+.logbutton{
+        background: #DD1537;
+        width: 20%;
+        height: 7%;
+        border: none;
+        font-family:'Raleway';
+        margin-left: 53%;
+        margin-top: -4%;
+        cursor: pointer;
+        font-size: 150%;
+        font-weight: bolder;
+        border-radius:50px;
+}
+.register{
+    margin-left: 50%;
+    margin-top: -41.5%;
+}
+.regform-txt3{
+    padding: 3%;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 45%;
+    height: 0px;
+    margin-top: -8.5%;
+    margin-left: 40%;
+}
+.regbutton{
+    background: #DD1537;
+    width: 22%;
+    height: 7%;
+    border: none;
+    font-family:'Raleway';
+    margin-left: 50%;
+    margin-top: 2%;
+    cursor: pointer;
+    font-size: 150%;
+    font-weight: bolder;
+    border-radius:50px;
+}
+.vector{
+    width: 15%;
+    height: 18%;
+    margin-top: 8%;
+}
