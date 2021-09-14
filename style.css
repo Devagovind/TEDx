@@ -592,3 +592,60 @@ section {
     height: 18%;
     margin-top: 8%;
 }
+.payment-head{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size:400%;
+    margin-top: 3%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 2%;
+    width: max-content;
+    height: max-content;
+}
+.payment-p{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 155%;
+    margin-top: 0%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 2.5%;
+    width: max-content;
+    height: max-content;
+}
+.purchase{
+    
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 190%;
+    margin-top: 5%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 2.5%;
+    width: max-content;
+    height: max-content;
+}
+.payment-list{
+     
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 140%;
+    margin-top: 3%;
+    letter-spacing: 2px;
+    margin-left: 2%;
+}
+.session{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 160%;
+    margin-top: 5%;
+    letter-spacing: 2px;
+    margin-left: 10%;
+    padding-left: 5%;
+    padding-top: 1%;
+    width: 23%;
+    height: 6%;
+    align-content: center;
+    border: 2px solid #FFFFFF;
+}
