@@ -18,6 +18,7 @@ input,textarea{
     font-size: 170%;
     font-weight: bold;
 }
+
 a{
     color:#00C2FF;
 
@@ -683,4 +684,40 @@ section {
     border: none;
     font-family:'Raleway';
     cursor: pointer;
+}
+.stream-head{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    margin-top: 3%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 70%;
+    width: max-content;
+    height: max-content;
+}
+.stream-p{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 125%;
+    margin-top: 0%;
+    font-weight:bolder;
+    letter-spacing: 2px;
+    margin-left: 2.5%;
+    width: max-content;
+    height: max-content;
+}
+.stream-head1{
+    font-family: 'Raleway';
+    color: #FFFFFF;
+    font-size: 420%;
+    margin-top: -5%;
+    font-weight:bolder;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    margin-left: 2.5%;
+    width: max-content;
+    height: max-content;
+}
+.video{
+    margin-left: 5%;
 }
